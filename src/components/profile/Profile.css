@@ -1,0 +1,60 @@
+.ran-logo {
+    width: 402px;
+    height: 342px;
+    border-radius: 10px;
+    position: relative;
+    top: 128px;
+    right: 350px;
+}
+
+.cel-name {
+    font-weight: initial;
+    position: relative;
+    left: 20px;
+    bottom: 180px;
+}
+
+.app-text {
+    font-size: large;
+    position: relative;
+    bottom: 184px;
+    left: 20px;
+    color: gray;
+}
+
+.location {
+    font-weight: bold;
+    color: gray;
+    position: relative;
+    bottom: 198px;
+    left: 23px;
+}
+
+.price-btn {
+    border: none;
+    background-color: #ff214f;
+    color: white;
+    width: 285px;
+    height: 51px;
+    border-radius: 15px;
+    position: relative;
+    bottom: 175px;
+    left: 59px;
+}
+
+.price-btn:hover {
+    background-color: white;
+    cursor: pointer;
+    color: black;
+    border: 2px solid #ff214f;
+}
+
+.profile-des {
+    font-size: 18px;
+    color: rgb(85, 85, 85);
+    width: 705px;
+    position: relative;
+    bottom: 159px;
+    left: 592px;
+    text-align: left;
+}

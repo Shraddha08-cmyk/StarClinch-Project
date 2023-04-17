@@ -1,0 +1,87 @@
+.second-footer {
+    background-color: rgb(27, 27, 27);
+    height: 800px;
+}
+
+.footer-nav {
+    height: 150px;
+    background-color: rgb(19, 18, 18);
+    position: relative;
+    top: 50px;
+}
+
+.feed-text {
+    color: rgb(94, 93, 93);
+    font-weight: 500;
+    width: 350px;
+    position: relative;
+    top: 50px;
+    left: 80px;
+}
+
+.logo2-img {
+    width: 180px;
+    position: relative;
+    bottom: 15px;
+    right: 20px;
+}
+
+.social {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 900px;
+    bottom: 50px;
+}
+
+.social-text {
+    color: rgb(94, 93, 93);
+    font-weight: 400;
+}
+
+.fb-icon {
+    color: rgb(177, 177, 177);
+    font-size: 20px;
+}
+
+.twitter-icon {
+    color: rgb(177, 177, 177);
+    font-size: 23px;
+}
+
+.you-icon {
+    color: rgb(177, 177, 177);
+    font-size: 23px;
+}
+
+.insta-icon {
+    color: rgb(177, 177, 177);
+    font-size: 23px;
+}
+
+.contact-head {
+    color: rgb(143, 142, 142);
+    position: relative;
+    top: 130px;
+    right: 530px;
+    font-size: smaller;
+    font-weight: 600;
+}
+
+.contact-text {
+    color: rgb(117, 109, 109);
+    width: 221px;
+    text-align: left;
+    position: relative;
+    left: 100px;
+    top: 128px;
+}
+
+#contact-us {
+    color: rgb(95, 93, 93);
+    font-size: 20px;
+    position: relative;
+    top: 131px;
+    right: 526px;
+}

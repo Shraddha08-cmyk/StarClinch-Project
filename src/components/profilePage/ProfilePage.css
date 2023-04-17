@@ -1,0 +1,16 @@
+.ran-img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    position: relative;
+    top: 150px;
+    right: 300px;
+}
+
+.profile-name {
+    font-weight: 500;
+    width: 70px;
+    position: relative;
+    left: 474px;
+    top: 40px;
+}

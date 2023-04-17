@@ -1,0 +1,168 @@
+.form-heading {
+    position: relative;
+    top: 64px;
+    right: 450px;
+}
+
+.form-text {
+    position: relative;
+    top: 54px;
+    right: 469px;
+}
+
+.type-of {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 75px;
+    right: 200px;
+}
+
+#ddlModels {
+    width: 300px;
+    position: relative;
+    top: 110px;
+    right: 390px;
+}
+
+.active {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 75px;
+    right: 330px;
+}
+
+#billing_event_date {
+    width: 320px;
+    position: relative;
+    left: 540px;
+    top: 70px;
+}
+
+.address {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 80px;
+    right: 430px;
+}
+
+#input-venue {
+    width: 680px;
+    position: relative;
+    top: 80px;
+    left: 178px;
+}
+
+.budget {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 85px;
+    right: 464px;
+}
+
+#billing_event_budget {
+    width: 300px;
+    position: relative;
+    left: 178px;
+    top: 85px;
+}
+
+.public {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 9px;
+    right: -6px;
+}
+
+#billing_event_gathering_size {
+    width: 320px;
+    position: relative;
+    left: 543px;
+    top: 8px;   
+}
+
+.form-name {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 15px;
+    right: 454px;
+}
+
+#billing_first_name {
+    width: 690px;
+    position: relative;
+    top: 15px;
+    left: 175px;
+}
+
+.email {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 20px;
+    right: 385px;
+}
+
+#billing_email {
+    width: 312px;
+    position: relative;
+    left: 171px;
+    top: 20px;   
+}
+
+.number {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    right: 54px;
+    bottom: 55px;
+}
+
+#billing_phone {
+    width: 312px;
+    position: relative;
+    left: 550px;
+    bottom: 57px;
+}
+
+.tell-us {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    right: 369px;
+    bottom: 54px;
+}
+
+#billing_event_information {
+    width: 690px;
+    position: relative;
+    left: 170px;
+    bottom: 53px;   
+}
+
+#more-opt {
+    width: 100px;
+    position: relative;
+    right: 456px;
+    bottom: 38px;
+}
+
+.more-opt-text {
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    bottom: 70px;
+    right: 250px;
+}
+
+.last-hr {
+    width: 712px;
+    position: relative;
+    bottom: 65px;
+    right: 150px;
+}
